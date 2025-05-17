@@ -26,3 +26,23 @@
             <p> It is time to put mobile screens in service of our mental wellness. Stories promote cognitive abilities that cal lead to better  health </p>
             </section>
           <div>
+<section>
+              <h1>  Be The first to know </h1>
+              <p>  We thilled to add you our list   </p>
+      <label for="submit">submit :</label>
+
+<input type="text" id="submit" name="submit">
+            
+<section>
+  <body>
+  <div>
+    <footer>
+       <a href="#"> Fabel </a> 
+      <div>
+        <nav>
+          <a href="#"> Privacy </a>
+          <a href="#"> Terms of Service </a>
+          <a href="#"> Carees </a>
+          <a href="#"> Contact </a>
+      
+    
