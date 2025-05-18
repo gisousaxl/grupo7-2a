@@ -2,56 +2,61 @@
 <html lang="en">
  <head>    
 <meta charset="UTF-8">
-
-<tittle> experience and health </tittle> 
+<title> experience and health </title> 
 </head>
 <body>
+<main>
 <header>
 <div>
 <a href="#"> Fable </a>
 </div>
   <nav>
     <a href="#"> about US </a>
-  <a href="#"> carees </a>
+  <a href="#"> careers </a>
     <a href="#"> contact </a>
 </nav>
 </header>
+
 <section>
     <h1> Stories for everyone </h1>
     <p> cultivate your imagination </p>
-   <button> join waitlist </button>
-   </section>
+</section>
       <section>
-<div>
+
       <h3> Reading Together anywhere </h3>
-   </div>  
+     
 <div>
           <h4> The Modern book club </h4>
           <p> join the get smart movement. Read with influencers or friends in reading clubs for digital natives. Our provocative discussion guides will  make your interactions fun </p>
           </div>
       <h4> Your time is precious </h4>
        <p> Fable folios are curated by experts to suit your time, mood and interests. We do all the work to save you time with book summaries. </p>
-            <h4> Digital Nutrition </h4>
+     <div>
+<h4> Digital Nutrition </h4>
             <p> It is time to put mobile screens in service of our mental wellness. Stories promote cognitive abilities that cal lead to better  health </p>
-            </section>
+   </div>
+</section>
 <section>
               <h2>  Be The first to know </h2>
-              <p>  We thilled to add you our list   </p>
-      <label for="submit">submit :</label>
+              <p>  We thrilled to add you our list   </p>
+   <form>
+<label for="submit">submit :</label>
 
 <input type="text" id="submit" name="submit">
-            
+<button type="submit">join waitlist </button>
+</form>           
 </section>
     <footer>
       <div>
-<a href="#"> Fabel </a> 
+<a href="#"> Fable </a> 
       </div>
         <nav>
           <a href="#"> Privacy </a>
           <a href="#"> Terms of Service </a>
-          <a href="#"> Carees </a>
+          <a href="#"> Careers </a>
           <a href="#"> Contact </a>
 </nav>
+</main>
 </footer>
       </body>
     </html>
