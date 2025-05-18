@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Título da Página</title>
+</head>
+<body>
+<header>
+<img src="#" alt=" ">
+<nav>
+<ul>
+<li><a href="#"> About US </a></li>
+<li><a href="#"> Careers </a></li>
+<li><a href="#"> Contact </a></li>
+</nav>
+</header>
+<section>
+<h1> Stories for everyone </h1>
+<h3> Cultivate your imagination </h3>
+<button> Join waitlist </button >
+</section>
+<main>
+<h2>Reading Together anywhere </h2>
+<div>
+<img src="#" alt=" ">
+
+<h3> The Modern Book Club</h3>
+<p> Join the get smart movement .Read with influencers or friends 
+in reading clubs for digital natives .Our provocative discussion guides will make your interactions fun.</p>
+</div>
+<div>
+<img src="#" alt = " ">
+<h3> Your time is precious </h3>
+<p> Fable folious are curated by experts to suit your time, mood and interests . We do all the work to save you time with book summaries.</p>
+</div>
+<div>
+<img src= "#" alt =" ">
+<p> It is time to put  mobile screens in service of our mental wellness .Stories promote cognitive  abilities that can  lead to better  mental health.</p>
+</div>
+</main>
+<section >
+<h2> Be The first to know </h2>
+<h4> We are thrllled to add you to our list</h4>
+<form action ="#" method =" post">
+<label for ="email ">
+<input type =" email">
+</label>
+<button type ="submit">
+</form>
+</section>
+<footer>
+<div>
+<img src="#" alt=" ">
+<nav>
+<ul>
+<li><a href = "#"> Privacy </a><li>
+<li><a href = "#">  Terms of Service </a><li> 
+<li><a href = "#">  Careers </a><li> 
+<li><a href = "#">  Contact </a><li>
+</ul>
+<img src =" " alt =" ">
+</div>
+<div>
+<a href ="#"><img src=" " alt =" "></a> 
+<a href ="#"><img src=" " alt =" "></a> 
+<a href ="#"><img src=" " alt =" "></a> 
+</div>
+</footer>
+  <!-- Conteúdo da página vai aqui -->
+</body>
+</html>
